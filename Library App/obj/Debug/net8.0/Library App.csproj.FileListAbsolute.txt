@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Library App\bin\Debug\net8.0\Library App.exe
+D:\Programmering\Programmering\Library App\bin\Debug\net8.0\Library App.deps.json
+D:\Programmering\Programmering\Library App\bin\Debug\net8.0\Library App.runtimeconfig.json
+D:\Programmering\Programmering\Library App\bin\Debug\net8.0\Library App.dll
+D:\Programmering\Programmering\Library App\bin\Debug\net8.0\Library App.pdb
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.AssemblyInfo.cs
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.dll
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\refint\Library App.dll
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.pdb
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\Library App.genruntimeconfig.cache
+D:\Programmering\Programmering\Library App\obj\Debug\net8.0\ref\Library App.dll
